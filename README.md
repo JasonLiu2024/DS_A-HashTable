@@ -1,5 +1,5 @@
 # About:
-In this project, I implement a hash table using a given framework. 
+In this project, I implement a hash table using a given framework. This assignment was due on November 4th, 2022.
 
 # Files:
 1. Hashing.java
